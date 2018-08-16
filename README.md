@@ -1,2 +1,2 @@
 # Data-structures
-My solutions for various assignments of the course data structures
+Implementation of various types of data structures.
